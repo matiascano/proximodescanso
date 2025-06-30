@@ -6,17 +6,6 @@ Aplicación web simple que muestra el próximo feriado nacional en Argentina, in
 
 Esta app fue desarrollada en HTML, CSS y JavaScript puro. El objetivo es brindar una forma rápida y visualmente atractiva de conocer el próximo día no laborable.
 
-## 📁 Estructura del proyecto
-
-.
-├── index.html
-├── assets
-│ ├── css
-│ │ └── style.css
-│ └── js
-│ └── scripts.js
-
-
 ## 🚀 Cómo usar
 
 1. Clonar o descargar el repositorio.
